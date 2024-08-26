@@ -1,0 +1,18 @@
+propiganda offen includes these things:
+.Emotionally charged language: Words or phrases designed to evoke strong emotions.
+.Bias or one-sided arguments: Presenting information in a way that supports a particular agenda.
+.Manipulative language: Techniques designed to sway opinions, such as appeals to fear or patriotism.
+
+The propagandist tries to stimulate others to accept without challenge his own assertions, or to act as he wants them to do 
+(https://www.historians.org/resource/what-are-the-tools-of-propaganda/)
+
+
+steps for codeing and tagging
+.normilise - all lower case 
+.tag - seppirate into diffrent words
+.POS tagging - find subjects nouns and things
+.NER name entity recognision - find people orginasations and groups
+.Phrase extraction - find phrases that are offen useed in propiganda 
+.sentiment anyalis - find if something is for or agenst something else
+.Feture extraction - extract Emoshal words, Bais indicators, high/ very low sentemet scores
+
